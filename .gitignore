@@ -1,3 +1,8 @@
+.jupyter
+.ipython
+.ipynb_checkpoints
+.local
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
